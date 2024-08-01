@@ -4,12 +4,11 @@ I'm a code conjurer, a pixel painter, and an ardent explorer of the digital real
 
 🎶 When I'm not composing symphonies in code, you can find me lost in the melodies of my harmonica, exploring the rhythmic world of music. 
 
-🌌 Among the stars of open source, I find my constellations: JavaScript, Python, Docker, and many more. 
+🌌 Among the stars of open source, I find my constellations: JavaScript, Docker, Linux, and many more. 
 
 🌟 I'm passionate about crafting elegant solutions to complex problems and believe that the beauty of code lies not just in its functionality but in its artistry.
 
 🌊 Outdoors, I'm a waterborne wanderer, paddling through serene lakes and meandering rivers, embracing the therapeutic embrace of the 'Stargazer' my canoe.
-⛺ I'm equally at home beneath the open sky, surrounded by the splendor of nature. 
 
 From building web applications that dance in the browser to creating algorithms that sing in the language of machines, I'm here to bring imagination to life, one commit at a time.
 
