@@ -38,4 +38,4 @@ hacker's mindset, finding creative solutions wherever possible, blending technic
 
 ---
 
-_"The best way to predict the future is to engineer it."_
+_"My job as a Software Developer is not to write code, my job is to come up with creative solutions to complex problems."_
