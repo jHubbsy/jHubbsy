@@ -3,7 +3,7 @@
 ## 💻 UI Developer | DevOps/GitOps | Site Reliability
 
 I transform legacy applications into modern solutions, implement practical observability tools, and build efficient
-DevOps pipelines. I'm passionate about solving complex problems with creative solutions.
+DevOps pipelines. Solving complex problems with creative solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-justin--hubbell-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/justin-hubbell)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jwhubbell.com-green?style=flat-square&logo=react)](https://jwhubbell.com)
