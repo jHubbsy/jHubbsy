@@ -1,6 +1,6 @@
 # Hello, I'm Hubbsy 👋
 
-## 💻 UI Developer | DevOps/GitOps | Site Reliability
+## 💻 UI Developer | DevOps/GitOps 
 
 I transform legacy applications into modern solutions, implement practical observability tools, and build efficient
 DevOps pipelines. Solving complex problems with creative solutions.
