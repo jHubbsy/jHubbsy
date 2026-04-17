@@ -38,4 +38,4 @@ hacker's mindset, finding creative solutions wherever possible, blending technic
 
 ---
 
-_"My job as a Software Developer is not to write code, my job is to come up with creative solutions to complex problems."_
+_"My job as a Software Developer was never to write code, my job is to develop creative solutions to complex problems."_
